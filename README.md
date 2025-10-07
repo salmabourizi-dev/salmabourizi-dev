@@ -1,4 +1,7 @@
-<h1 align="center">💫 Bourizi Salma</h1>
+<!-- 💫 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=FF69B4&size=32&center=true&vCenter=true&width=600&lines=Salma+Bourizi" alt="Salma Bourizi Typing Animation" />
+</p>
 
 <h3 align="center">
 👩‍💻 Ingénieure en Informatique et Réseaux | 🚀 Développeuse Full Stack MERN & Java | React.js | Node.js | Express.js | MySQL | MongoDB | Angular | Java | Spring Boot | Python | TensorFlow | Flutter | Transforming Ideas into Intelligent Web Solutions ✨
@@ -7,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,angular,java,spring,python,tensorflow,flutter,html,css,js,git,github,figma,vscode,postman,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,mongodb,angular,java,spring,python,tensorflow,flutter,html,css,js,git,github,figma,vscode,postman,swagger,bootstrap,tailwind" />
 </p>
 
 ---
@@ -18,7 +21,7 @@
 💼 **Certifiée par l’État** en tant que **Développeuse MERN Stack** (Jobintech & Arkx).  
 ⚙️ J’utilise des outils tels que **Postman** et **Swagger** pour tester et documenter mes APIs.  
 💡 Passionnée par le **développement web et mobile**, l’**IA**, et le **design d’interfaces modernes**.  
-🚀 Objectif : créer des solutions digitales performantes, intuitives et intelligentes.  
+🌈 J’adore les interfaces bien designées, les projets bien structurés, et un bon café ☕ pendant que je code.  
 
 ---
 
@@ -48,7 +51,7 @@
 
 ### 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmabourizi-dev&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmabourizi-dev&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
