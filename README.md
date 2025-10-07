@@ -21,7 +21,7 @@
 💼 **Certifiée par l’État** en tant que **Développeuse MERN Stack** (Jobintech & Arkx).  
 ⚙️ J’utilise des outils tels que **Postman** et **Swagger** pour tester et documenter mes APIs.  
 💡 Passionnée par le **développement web et mobile**, l’**IA**, et le **design d’interfaces modernes**.  
-🌈 J’adore les interfaces bien designées, les projets bien structurés, et un bon café ☕ pendant que je code.  
+J’adore les interfaces bien designées, les projets bien structurés. 
 
 ---
 
